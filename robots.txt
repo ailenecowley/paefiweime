@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://anayailuik.sketchyasfuckistan.com/sitemap.xml
